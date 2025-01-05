@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Beena Anam</h1>
+<h1 align="center">Hi 👋, I'm @BeenaAnam</h1>
+
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beenaanam&label=Profile%20views&color=0e75b6&style=flat" alt="beenaanam" /> </p>
@@ -7,7 +8,7 @@
 
 - 🌱 I’m currently learning **Web & Mobile App Development**
 
-- 📫 How to reach me **beenaanum11@gmail.com**
+- 📫 How to reach me **beenaanam9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
