@@ -1,5 +1,5 @@
 <p><img src="https://i.imgur.com/A6bWGFl.gif" alt="Resim 1"/></p>
-<img style="margin-bottom: 15px;" align="right" alt="Coding" width="300" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112"> 
+<img style="margin-bottom: 15px;" align="center" alt="Coding" width="300" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112"> 
 <br> <br>
 
 # 💫 About Me:
