@@ -3,7 +3,8 @@
 <img style="margin-bottom: 15px;" align="center" alt="Coding" width="300" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112"> 
 <br> <br>
 
-# 💫 About Me: My name is  Beena Anam <br>I'm currently learning Web & App Development and becoming a Full Stack developer soon , also know about HTML , CSS and TypeScript.
+# 💫 About Me: 
+My name is  Beena Anam <br>I'm currently learning Web & App Development and becoming a Full Stack developer soon , also know about HTML , CSS and TypeScript.
 
 
 
