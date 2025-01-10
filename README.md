@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beenaanam&label=Profile%20views&color=0e75b6&style=flat" alt="beenaanam" /> </p>
 
 # 💫 About Me: 
-My name is  Beena Anam <br>I'm currently learning Web & App Development and becoming a Full Stack developer soon , also know about HTML , CSS and TypeScript.
+My name is  Beena Anam , I'm currently learning Web & App Development and becoming a Full Stack developer soon , also know about HTML , CSS and TypeScript.
 
 
 
