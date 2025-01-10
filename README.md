@@ -2,13 +2,14 @@
 <p><img src="https://i.imgur.com/A6bWGFl.gif" alt="Resim 1"/></p>
 <img style="margin-bottom: 15px;" align="center" alt="Coding" width="300" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112"> 
 <br> <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=beenaanam&label=Profile%20views&color=0e75b6&style=flat" alt="beenaanam" /> </p>
 
 # 💫 About Me: 
 My name is  Beena Anam <br>I'm currently learning Web & App Development and becoming a Full Stack developer soon , also know about HTML , CSS and TypeScript.
 
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/beena-anum-2b2963254)
 
 # 💻 Skills:
